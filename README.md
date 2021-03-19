@@ -1,3 +1,3 @@
 ###Presentacion TECNOWEB
-## Linea conflicto 
+## Hola no tengo conflicto.
 Esto es un readme. Yay!
